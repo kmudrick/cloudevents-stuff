@@ -1,0 +1,22 @@
+{
+  "name": "cloudevents-stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cloudevents": "^8.0.0",
+    "uuid": "^9.0.1",
+    "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "@tsconfig/node18": "^18.2.2",
+    "@types/node": "^18.17.18",
+    "prettier": "^3.0.3",
+    "tsx": "^3.12.10",
+    "typescript": "^5.2.2"
+  }
+}
